@@ -1,6 +1,7 @@
 # cli-truncate [![Build Status](https://travis-ci.org/sindresorhus/cli-truncate.svg?branch=master)](https://travis-ci.org/sindresorhus/cli-truncate)
 
 > Truncate a string to a specific width in the terminal
+> ES5 compatible
 
 Gracefully handles [ANSI escapes](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles). Like a string styled with [`chalk`](https://github.com/chalk/chalk).
 
@@ -74,4 +75,4 @@ Position to truncate the string.
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Getgrover](https://getgrover.com)
